@@ -10,7 +10,6 @@ It showcases skills in ReactJS, React Router DOM, functional components, hooks, 
 ## 🌐 Live Demo
 
 👉 **[View Deployed Site on Netlify](https://internshala-dental.netlify.app)**  
-(*optional: Replace with your actual Netlify URL*)
 
 ---
 
@@ -18,7 +17,7 @@ It showcases skills in ReactJS, React Router DOM, functional components, hooks, 
 
 | Home Page | Services Page | Contact Page |
 |-----------|----------------|----------------|
-| ![Home](./src/assets/p1.png) | ![Services](./src/assets/p3.png) | ![Contact](./src/assets/p5.png) |
+| ![Home](./src/assets/p1.jpg) | ![Services](./src/assets/p3.jpg) | ![Contact](./src/assets/p5.jpg) |
 
 ---
 
