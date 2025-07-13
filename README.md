@@ -1,7 +1,7 @@
 
 # 🦷 Internshala Dental Clinic Website
 
-This project is a **responsive, accessible, and modern front-end website for a dental clinic**, developed as part of the **Internshala Front-End Web Development Internship Assignment**.
+This project is a **responsive, accessible, and modern front-end website for a dental clinic**.
 
 It showcases skills in ReactJS, React Router DOM, functional components, hooks, Axios (for form simulation), and clean UI design principles. The website includes structured pages like Home, About, Services, and Contact, and follows best practices in front-end development.
 
@@ -18,7 +18,7 @@ It showcases skills in ReactJS, React Router DOM, functional components, hooks, 
 
 | Home Page | Services Page | Contact Page |
 |-----------|----------------|----------------|
-| ![Home](./src/assets/screenshot-home.png) | ![Services](./src/assets/screenshot-services.png) | ![Contact](./src/assets/screenshot-contact.png) |
+| ![Home](./src/assets/p1.png) | ![Services](./src/assets/p3.png) | ![Contact](./src/assets/p5.png) |
 
 ---
 
